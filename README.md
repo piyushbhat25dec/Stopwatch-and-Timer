@@ -1,1 +1,1 @@
-# Stopwatch-and-Timer
+# Codeclause-Stopwatch-and-Timer
